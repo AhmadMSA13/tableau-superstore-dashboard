@@ -8,7 +8,7 @@
   👉 [Click here to view the live dashboard on Tableau Public](https://public.tableau.com/views/SuperstoreDashboard_17531850841620/SuperstoreDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
  
 * 📄 **Dashboard Report (PDF format):**
-  👉 [Download the PDF version here](Superstore%20Dashboard.pdf.pdf)
+  👉 [Download the PDF version here](Superstore%20Dashboard.pdf)
 
 ---
 
