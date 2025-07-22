@@ -2,10 +2,6 @@
 
 ---
 
-Berikut contoh kalimat penutup dalam bahasa Inggris yang bisa Anda tambahkan di bagian akhir `README.md` GitHub Anda, untuk **menghubungkan ke Power BI online dan file PDF dashboard**:
-
----
-
 ## 🔗 Access the Dashboard
 
 * 📊 **Interactive Tableau Dashboard:**
