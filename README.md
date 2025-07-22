@@ -105,5 +105,3 @@ The dataset includes a complete record of transactional data from the superstore
 
 * Further filtering by **Segment** (Consumer, Corporate, Home Office) can reveal customer buying behavior and value.
 * Profitability is often diluted by **high discount rates**, especially in Furniture, suggesting a need to evaluate pricing strategies.
-
----
